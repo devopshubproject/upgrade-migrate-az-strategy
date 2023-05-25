@@ -12,8 +12,6 @@
     - Performance Measurement
     - Reliability and Availability 
     - Continuous Improvement 
-    -  
-
 
 `Assessment and Planning:`
 
@@ -87,6 +85,12 @@ Stay updated with the latest Kubernetes and containerization best practices to l
 #### Flow Diagram
 
 <img src="./docs/images/compute-choices.png" align="center">
+
+
+
+### For Security, Access and Networking Considerations:
+
+see documentation [here](./docs/files/Security_Access_Network_Consideration.md)
 
 
 ## <font color = "red"> Follow-Me </font>
