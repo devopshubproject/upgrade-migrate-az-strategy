@@ -92,6 +92,10 @@ Stay updated with the latest Kubernetes and containerization best practices to l
 
 see documentation [here](./docs/files/Security_Access_Network_Consideration.md)
 
+### For Uptime and Rollback Strategies:
+
+see documentation [here](./docs/files/Uptime_Rollback_%20Strategies.md)
+
 
 ## <font color = "red"> Follow-Me </font>
 
